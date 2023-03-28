@@ -63,4 +63,6 @@ A little about me:
   </div>
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVasil-ev&hide=html,css,scss,sass&layout=compact)](https://github.com/JohnVasil-ev)
+
 <!-- **JohnVasil-ev/JohnVasil-ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
