@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Ivan 👋🏻</h1>
+<h1>Hi there, I'm John 👋🏻</h1>
 <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px" align="right" />
 
 **👨‍💻 I'm a back-end developer who enjoys coding and new challenges.**
