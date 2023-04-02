@@ -5,22 +5,6 @@
 
 A little about me:
 <details>
-  <summary>📈 My Github Stats: </summary>
-  <br/>
-  <div>
-     <div>
-        <div>
-          <img src="https://komarev.com/ghpvc/?username=JohnVasil-ev&color=brightgreen&label=Github Profile Views"/>
-           &nbsp;
-          <a href="https://github.com/JohnVasil-ev">
-            <img src="https://img.shields.io/github/followers/JohnVasil-ev.svg?style=social&label=Follow"/>
-          </a>
-        </div>
-     </div>
-  </div>
-</details>
-
-<details>
   <summary>🌐 My Personal Website / Additional links: </summary>
   <br/>
   <div align="center">
