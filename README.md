@@ -47,6 +47,6 @@ A little about me:
   </div>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVasil-ev&hide=html,css,scss,sass&layout=compact)](https://github.com/JohnVasil-ev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHiz&hide=html,css,scss,sass&layout=compact)](https://github.com/JohnHiz)
 
-<!-- **JohnVasil-ev/JohnVasil-ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **JohnHiz/JohnHiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
